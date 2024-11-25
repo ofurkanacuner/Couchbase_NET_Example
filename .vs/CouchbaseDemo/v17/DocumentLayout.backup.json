@@ -1,0 +1,146 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\omerfurkan.acuner\\source\\repos\\CouchbaseDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A6C788C-D8A6-44A5-B46E-45A2994D9FDE}|CouchbaseDemo\\CouchbaseDemo.csproj|c:\\users\\omerfurkan.acuner\\source\\repos\\couchbasedemo\\couchbasedemo\\controllers\\cachecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A6C788C-D8A6-44A5-B46E-45A2994D9FDE}|CouchbaseDemo\\CouchbaseDemo.csproj|solutionrelative:couchbasedemo\\controllers\\cachecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A6C788C-D8A6-44A5-B46E-45A2994D9FDE}|CouchbaseDemo\\CouchbaseDemo.csproj|c:\\users\\omerfurkan.acuner\\source\\repos\\couchbasedemo\\couchbasedemo\\services\\couchbaseclusterprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A6C788C-D8A6-44A5-B46E-45A2994D9FDE}|CouchbaseDemo\\CouchbaseDemo.csproj|solutionrelative:couchbasedemo\\services\\couchbaseclusterprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A6C788C-D8A6-44A5-B46E-45A2994D9FDE}|CouchbaseDemo\\CouchbaseDemo.csproj|c:\\users\\omerfurkan.acuner\\source\\repos\\couchbasedemo\\couchbasedemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A6C788C-D8A6-44A5-B46E-45A2994D9FDE}|CouchbaseDemo\\CouchbaseDemo.csproj|solutionrelative:couchbasedemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A6C788C-D8A6-44A5-B46E-45A2994D9FDE}|CouchbaseDemo\\CouchbaseDemo.csproj|c:\\users\\omerfurkan.acuner\\source\\repos\\couchbasedemo\\couchbasedemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7A6C788C-D8A6-44A5-B46E-45A2994D9FDE}|CouchbaseDemo\\CouchbaseDemo.csproj|solutionrelative:couchbasedemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A6C788C-D8A6-44A5-B46E-45A2994D9FDE}|CouchbaseDemo\\CouchbaseDemo.csproj|c:\\users\\omerfurkan.acuner\\source\\repos\\couchbasedemo\\couchbasedemo\\services\\icouchbaseclusterprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A6C788C-D8A6-44A5-B46E-45A2994D9FDE}|CouchbaseDemo\\CouchbaseDemo.csproj|solutionrelative:couchbasedemo\\services\\icouchbaseclusterprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A6C788C-D8A6-44A5-B46E-45A2994D9FDE}|CouchbaseDemo\\CouchbaseDemo.csproj|c:\\users\\omerfurkan.acuner\\source\\repos\\couchbasedemo\\couchbasedemo\\model\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A6C788C-D8A6-44A5-B46E-45A2994D9FDE}|CouchbaseDemo\\CouchbaseDemo.csproj|solutionrelative:couchbasedemo\\model\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CouchbaseClusterProvider.cs",
+              "DocumentMoniker": "C:\\Users\\omerfurkan.acuner\\source\\repos\\CouchbaseDemo\\CouchbaseDemo\\Services\\CouchbaseClusterProvider.cs",
+              "RelativeDocumentMoniker": "CouchbaseDemo\\Services\\CouchbaseClusterProvider.cs",
+              "ToolTip": "C:\\Users\\omerfurkan.acuner\\source\\repos\\CouchbaseDemo\\CouchbaseDemo\\Services\\CouchbaseClusterProvider.cs",
+              "RelativeToolTip": "CouchbaseDemo\\Services\\CouchbaseClusterProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T20:44:45.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICouchbaseClusterProvider.cs",
+              "DocumentMoniker": "C:\\Users\\omerfurkan.acuner\\source\\repos\\CouchbaseDemo\\CouchbaseDemo\\Services\\ICouchbaseClusterProvider.cs",
+              "RelativeDocumentMoniker": "CouchbaseDemo\\Services\\ICouchbaseClusterProvider.cs",
+              "ToolTip": "C:\\Users\\omerfurkan.acuner\\source\\repos\\CouchbaseDemo\\CouchbaseDemo\\Services\\ICouchbaseClusterProvider.cs",
+              "RelativeToolTip": "CouchbaseDemo\\Services\\ICouchbaseClusterProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T20:44:03.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderModel.cs",
+              "DocumentMoniker": "C:\\Users\\omerfurkan.acuner\\source\\repos\\CouchbaseDemo\\CouchbaseDemo\\Model\\OrderModel.cs",
+              "RelativeDocumentMoniker": "CouchbaseDemo\\Model\\OrderModel.cs",
+              "ToolTip": "C:\\Users\\omerfurkan.acuner\\source\\repos\\CouchbaseDemo\\CouchbaseDemo\\Model\\OrderModel.cs",
+              "RelativeToolTip": "CouchbaseDemo\\Model\\OrderModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T20:36:16.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CacheController.cs",
+              "DocumentMoniker": "C:\\Users\\omerfurkan.acuner\\source\\repos\\CouchbaseDemo\\CouchbaseDemo\\Controllers\\CacheController.cs",
+              "RelativeDocumentMoniker": "CouchbaseDemo\\Controllers\\CacheController.cs",
+              "ToolTip": "C:\\Users\\omerfurkan.acuner\\source\\repos\\CouchbaseDemo\\CouchbaseDemo\\Controllers\\CacheController.cs",
+              "RelativeToolTip": "CouchbaseDemo\\Controllers\\CacheController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T20:33:53.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\omerfurkan.acuner\\source\\repos\\CouchbaseDemo\\CouchbaseDemo\\Program.cs",
+              "RelativeDocumentMoniker": "CouchbaseDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\omerfurkan.acuner\\source\\repos\\CouchbaseDemo\\CouchbaseDemo\\Program.cs",
+              "RelativeToolTip": "CouchbaseDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T20:32:41.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\omerfurkan.acuner\\source\\repos\\CouchbaseDemo\\CouchbaseDemo\\appsettings.json",
+              "RelativeDocumentMoniker": "CouchbaseDemo\\appsettings.json",
+              "ToolTip": "C:\\Users\\omerfurkan.acuner\\source\\repos\\CouchbaseDemo\\CouchbaseDemo\\appsettings.json",
+              "RelativeToolTip": "CouchbaseDemo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-25T20:31:51.073Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
